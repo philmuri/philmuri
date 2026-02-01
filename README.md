@@ -8,6 +8,8 @@ Currently working at **Fusion For Energy** for the EU contribution to the **ITER
 
 > I work on large-scale scientific instrumentation for the ITER fusion project, specializing in LiDAR and precision metrology systems. My role combines data analysis, post-processing of high-volume measurement data, and development and maintenance of software tools for data analysis pipelines, and user interfaces to visualize and interact with complex spatial measurement data.
 
+> My profile picture is that of a cute Danish Yule pig that I found lying around in Kronborg castle ;)
+
 ### Programming Toolset
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
