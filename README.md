@@ -3,8 +3,8 @@
 MSc in Theoretical Physics - Cosmology & High-Energy Physics
 
 Currently working at **Fusion For Energy** for the EU contribution to the **ITER project**. My roles include:
-- Scientific Computing Engineer (Metrology & Instrumentation) for the In-Vessel Viewing System (IVVS) at ITER
-- UI Developer and Plasma Engineer for the Plasma Engineering and Multi-Physics Unit
+- Data Scientist + Metrology for the In-Vessel Viewing System (IVVS) at ITER
+- UI Developer and Plasma Engineering for the Plasma Engineering and Multi-Physics Unit
 
 > I work on large-scale scientific instrumentation for the ITER fusion project, specializing in LiDAR and precision metrology systems. My role combines data analysis, post-processing of high-volume measurement data, and development and maintenance of software tools for data analysis pipelines, and user interfaces to visualize and interact with complex spatial measurement data.
 
