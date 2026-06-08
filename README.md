@@ -34,8 +34,8 @@ Currently working at **Fusion For Energy** for the EU contribution to the **ITER
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]
-[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)]
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
 
 <!--
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)]
